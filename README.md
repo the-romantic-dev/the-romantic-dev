@@ -13,7 +13,7 @@
   </a>
   <span>
     <img src="https://shields.io/badge/-white?logo=gmail"/>
-    yvalentinasovofficial@gmail.com
+    <font size="24">valentinasovofficial@gmail.com</font>
   </span>
 </div>
 
