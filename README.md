@@ -1,10 +1,3 @@
-<style type="text/css">
-   h1 { 
-    font-size: 120%; 
-    font-family: Verdana, Arial, Helvetica, sans-serif; 
-    color: #333366;
-   }
-  </style>
 
 <div align="center">
 <a href="https://github.com/the-romantic-dev"><img src="https://shields.io/badge/Android_developer-green?logo=android&logoColor=white" width="500"/></a>
@@ -19,10 +12,6 @@
   <a href="https://t.me/TheRomantic20">
     <img src="https://shields.io/badge/Telegram-2AABEE?logo=telegram&logoColor=white" width="200"/>
   </a>
-  <span style="font-size:100">
-    <img src="https://shields.io/badge/-white?logo=gmail"/>
-    <p>valentinasovofficial@gmail.com</p>
-  </span>
 </div>
 
 
