@@ -11,9 +11,9 @@
   <a href="https://t.me/TheRomantic20">
     <img src="https://shields.io/badge/Telegram-2AABEE?logo=telegram&logoColor=white" width="200"/>
   </a>
-  <span>
+  <span style="font-size:24">
     <img src="https://shields.io/badge/-white?logo=gmail"/>
-    <font size="36">valentinasovofficial@gmail.com</font>
+    valentinasovofficial@gmail.com
   </span>
 </div>
 
