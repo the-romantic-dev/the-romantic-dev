@@ -8,6 +8,9 @@
 <a href="https://www.linkedin.com/in/yury-valentinasov-5a8898230">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="200"/>
 </a>
+<a href="">
+  <img src="https://shields.io/badge/Telegram-2AABEE?logo=telegram&logoColor=white" width="200"/>
+</a>
 </div>
 
 
