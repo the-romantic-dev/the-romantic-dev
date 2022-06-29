@@ -1,3 +1,11 @@
+<style type="text/css">
+   h1 { 
+    font-size: 120%; 
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    color: #333366;
+   }
+  </style>
+
 <div align="center">
 <a href="https://github.com/the-romantic-dev"><img src="https://shields.io/badge/Android_developer-green?logo=android&logoColor=white" width="500"/></a>
 </div>
@@ -13,7 +21,7 @@
   </a>
   <span style="font-size:100">
     <img src="https://shields.io/badge/-white?logo=gmail"/>
-    valentinasovofficial@gmail.com
+    <p>valentinasovofficial@gmail.com</p>
   </span>
 </div>
 
