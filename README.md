@@ -11,10 +11,10 @@
   <a href="https://t.me/TheRomantic20">
     <img src="https://shields.io/badge/Telegram-2AABEE?logo=telegram&logoColor=white" width="200"/>
   </a>
-  <span>
+  <div>
     <img src="https://shields.io/badge/-white?logo=gmail"/>
     <p>yvalentinasovofficial@gmail.com</p>
-  </span>
+  </div>
 </div>
 
 
