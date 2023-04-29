@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://github.com/the-romantic-dev"><img src="https://shields.io/badge/Who_am_I?-green?logo=android&logoColor=white" width="500"/></a>
+<a href="https://github.com/the-romantic-dev"><img src="https://shields.io/badge/%D0%A1rypto_enthusiast-orange?logo=bitcoin&logoColor=white" width="500"/></a>
 </div>
 
 <br/>
